@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace MyagmarsurenSedjav\SimplePaymentPocketDriver\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class SimplePaymentPocketDriverCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'simple-payment-pocket-driver';
 
     public $description = 'My command';
 
