@@ -2,9 +2,9 @@
 
 namespace MyagmarsurenSedjav\SimplePaymentPocketDriver;
 
+use MyagmarsurenSedjav\SimplePaymentPocketDriver\Commands\SimplePaymentPocketDriverCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use MyagmarsurenSedjav\SimplePaymentPocketDriver\Commands\SimplePaymentPocketDriverCommand;
 
 class SimplePaymentPocketDriverServiceProvider extends PackageServiceProvider
 {
